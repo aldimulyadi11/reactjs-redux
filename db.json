@@ -1,0 +1,71 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Aldi",
+          "alamat": "kbb",
+          "nohp": "08421213123213"
+        },
+        {
+          "id": 2,
+          "nama": "Mulyadi",
+          "alamat": "jkt",
+          "nohp": "08421213123214"
+        },
+        {
+          "id": 3,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+  
+        {
+          "id": 4,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 5,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 6,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 7,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 8,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 9,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 10,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        },
+        {
+          "id": 11,
+          "nama": "ica",
+          "alamat": "ygy",
+          "nohp": "08421213123215"
+        }
+      ]
+}
